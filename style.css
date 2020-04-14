@@ -1,0 +1,53 @@
+      .btn-outline-light:hover, .btn-outline-light:focus, .btn-outline-light:active, .btn-outline-light.active, .open>.dropdown-toggle.btn-outline-light {
+      
+        background-color: #fff;
+        border-color: #0275d8; /*set the color you want here*/
+        border: 1.5px solid #0275d8;
+      }
+      .btn-outline-light:hover .fa-check-circle-o:before, .btn-outline-light:focus .fa-check-circle-o:before  {
+        color: #0275d8;
+      }
+      body {
+        background-color: #0a1762;
+      }
+      .menu-links{
+        color: #fff !important;
+      }
+      .btn-success {
+        background-color: #bdf574;
+        border: none;
+        border-radius: 1em;
+        color: #333333;
+        font-weight: 700;
+      }
+      .btn-success:hover {
+        background-color: #bdf574 !important;
+        color: #333333;
+      }
+        .popContent {
+          border-radius: 10px;
+          padding: 0em 2em 3em 2em;
+        }
+        .popHead {
+          border-bottom: 0 none;
+        }
+        .popTitle {
+          background-color: #CFF6DF;
+          color: #219653;
+          font-size: small;
+          font-weight: 500;
+        }
+        .volunteer-desc {
+          font-weight: 500;
+          color: #615F5F;
+          font-size: small;
+        }
+        .volunteer-btn {
+          padding: 0.5em 2em 0.5em 2em;
+        }
+        .mod-foot {
+          border-top: 0 none;
+        }
+        .close-click {
+          cursor: pointer;
+        }
